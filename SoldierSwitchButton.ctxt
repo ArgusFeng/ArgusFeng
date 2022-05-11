@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SoldierSwitchButton
+comment0.text=\n\ Write\ a\ description\ of\ class\ SoldierSwitchButton\ here.\n\ The\ soldier\ switch\ button\ is\ used\n\ @author\ (Kevin\ Zhu)\ \n\ @version\ (April\ 28,\ 2022)\n
+comment1.params=
+comment1.target=SoldierSwitchButton()
+comment1.text=\n\ This\ set\ the\ default\ value\ for\ the\ soldier\ switch\ button.\n
+comment2.params=
+comment2.target=void\ initSoldierSwitchButton()
+comment2.text=\n\ Initializing\ the\ start\ button\ image\n
+comment3.params=
+comment3.target=void\ onClick()
+comment3.text=\n\ Check\ if\ mouse\ clicks\ this\ button\n
+comment4.params=
+comment4.target=void\ onHover()
+numComments=5

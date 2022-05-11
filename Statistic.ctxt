@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Statistic
+comment0.text=\n\ This\ class\ keeps\ track\ of\ all\ the\ statistics\ \n
+comment1.params=side\ gold
+comment1.target=Statistic(boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=gold
+comment3.target=void\ updateGold(int)
+comment3.text=\r\n\ These\ update\ the\ stats\ displayed\r\n
+comment4.params=
+comment4.target=void\ updateKills()
+comment5.params=
+comment5.target=int\ getGold()
+numComments=6
