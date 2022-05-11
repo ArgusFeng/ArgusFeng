@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MinusButton
+comment0.text=\n\ Write\ a\ description\ of\ class\ MinusButton\ here.\n\ This\ add\ button\ is\ used\ to\ add\ the\ inital\ gold.\n\ @author\ (Kevin\ Zhu)\ \n\ @version\ (April\ 28,\ 2022)\n
+comment1.params=
+comment1.target=MinusButton()
+comment1.text=\n\ This\ set\ the\ default\ value\ for\ the\ minus\ button.\n
+comment2.params=
+comment2.target=void\ initMinusButton()
+comment2.text=\n\ Initializing\ the\ start\ button\ image\n
+comment3.params=
+comment3.target=void\ onClick()
+comment3.text=\n\ Check\ if\ mouse\ clicks\ this\ button\n
+comment4.params=
+comment4.target=void\ onHover()
+comment4.text=\n\ Check\ if\ mouse\ hovers\ on\ this\ button\n
+numComments=5
